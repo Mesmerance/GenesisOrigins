@@ -1,0 +1,11 @@
+name: GenesisOrigins
+version: '1.0-SNAPSHOT'
+main: me.shalloh.genesisorigins.GenesisOrigins
+api-version: 1.19
+authors: [ Shalloh ]
+description: An origins plugin for OriginsMC.
+depend: [Geyser-Spigot]
+commands:
+  origin:
+    description: create a new origin!
+    usage: /<command> <args>

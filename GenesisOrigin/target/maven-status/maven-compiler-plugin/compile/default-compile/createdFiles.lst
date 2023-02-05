@@ -1,0 +1,9 @@
+me\shalloh\genesisorigins\models\PlayerData.class
+me\shalloh\genesisorigins\commands\Commands.class
+me\shalloh\genesisorigins\GenesisOrigins.class
+me\shalloh\genesisorigins\events\Events.class
+me\shalloh\genesisorigins\origins\InventoryUtil.class
+me\shalloh\genesisorigins\origins\Origin.class
+me\shalloh\genesisorigins\origins\Kit.class
+me\shalloh\genesisorigins\commands\Origins.class
+me\shalloh\genesisorigins\origins\OriginUtil.class
