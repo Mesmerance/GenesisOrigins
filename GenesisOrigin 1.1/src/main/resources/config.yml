@@ -1,0 +1,32 @@
+Origins:
+  Human:
+    Impact Type: 0
+    Head: PLAYER_HEAD
+  Elytrian:
+    Impact Type: 1
+    Head: ELYTRA
+  Avian:
+    Impact Type: 1
+    Head: FEATHER
+  Arachnid:
+    Impact Type: 1
+    Head: COBWEB
+  Shulk:
+    Impact Type: 1
+    Head: SHULKER_SHELL
+  Enderian:
+    Impact Type: 2
+    Head: ENDER_PEARL
+  Feline:
+    Impact Type: 2
+    Head: ORANGE_WOOL
+  Merling:
+    Impact Type: 3
+    Head: TROPICAL_FISH
+  Phantom:
+    Impact Type: 3
+    Head: PHANTOM_MEMBRANE
+  Blazeborne:
+    Impact Type: 3
+    Head: BLAZE_POWDER
+
